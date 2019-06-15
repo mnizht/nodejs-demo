@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "一个Node.js的演示案例，根据Node.js入门指南构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
