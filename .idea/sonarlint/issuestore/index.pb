@@ -18,3 +18,19 @@ J
 src/module/require/main.js,d\7\d7c06533855a3c9dde2adf3ef633cf715ba771cd
 Q
 !src/module/require/exportsTest.js,9\8\987fae46024572585190f846a7008628c6818d86
+J
+src/module/require/test.js,7\7\77c809712a8c69bd7b5c374deee0ea37fe8eaa69
+K
+src/module/require/utils.js,0\7\0746fecf76e9092f7d67e95145f5615303daafb6
+O
+src/module/filecopy/fileCopy.js,a\9\a94bbef32a4a90b5f47313e7580e28bb95eddd73
+C
+src/module/hello.js,c\0\c02f593b1661025e33df62c36d348a0f071bd6ac
+L
+src/module/classTest/test.js,5\1\51d5306d5327ad4193153d7db7bffedc6d296329
+L
+src/module/classTest/user.js,9\1\9161d39e5fe5fc9574416c002292889a72561140
+L
+src/module/classtest/user.js,5\d\5d0405d9c8ddc911edd01dcdb39020cbee575acb
+L
+src/module/classtest/test.js,3\d\3dd959fb1fa62b306b1f0da5e677e01062bd0907

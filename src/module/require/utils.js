@@ -8,3 +8,5 @@ exports.a = 200;
 exports = 'other area';
 console.log(module.exports);//print:{ a: 200}
 console.log(exports);//print:other area
+exports.a = 300;
+console.log(module.exports);
